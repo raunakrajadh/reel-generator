@@ -15,9 +15,9 @@
 ```
 
 - Get api keys from:
-1. https://favqs.com/api
-2. https://developers.google.com/youtube/v3/getting-started
-3. https://www.pexels.com/api/
+1. https://favqs.com/api -- `favqs_api`
+2. https://developers.google.com/youtube/v3/getting-started -- for `youtube_api`
+3. https://www.pexels.com/api/ -- for `pixels_api`
 
 
 - After getting api keys, make sure to install `ffmpeg`. Download it from https://github.com/BtbN/FFmpeg-Builds/releases
@@ -35,4 +35,5 @@ node .
 
 # Warning:
 
-- Adding automation and posting it on services like youtube and instagram is against their terms of service. Enjoy :)
+- Adding automation and posting it on services like youtube and instagram is against their terms of service.
+- Enjoy :)
